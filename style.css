@@ -1,0 +1,26 @@
+header {
+
+    color: wheat ;
+    background-color: black;
+}
+
+nav{
+
+    background-color: coral;
+
+}
+img.escudo{
+    float: right;
+    width: 80px;
+    height: 80px;
+}
+
+img.estadio{
+
+    width: 1500px;
+    height: 650px;
+}
+
+h1.pla{
+    text-align: center;
+}
