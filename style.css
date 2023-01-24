@@ -24,3 +24,31 @@ img.estadio{
 h1.pla{
     text-align: center;
 }
+
+img.por{
+    position: relative;
+    float: left;
+    width: 150px;
+height: 200px;
+}
+
+img.def{
+    position: relative;
+    float: left;
+width: 150px;
+height: 200px;
+}
+
+img{
+    position: relative;
+    float: left;
+    width: 150px;
+    height: 200px;
+}
+
+img.del{
+    position: relative;
+    float: left;
+    width: 150px;
+height: 200px;
+}
